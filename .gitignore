@@ -1,2 +1,11 @@
-*.pdf
-Note/
+*
+!.gitignore
+!5.\ Deep\ Learning/210031_assignment5_notebook.ipynb
+!210031-assignment4-notebook.ipynb
+!data-breast-cancer.csv
+!data-employee-recruitment.csv
+!210031-assignment3-notebook.ipynb
+!Assignment-2-Kmeans.ipynb
+!market-campaigne.csv
+!210031-assignment1-notebook.ipynb
+!travel-insurance.csv

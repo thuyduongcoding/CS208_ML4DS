@@ -3,6 +3,6 @@
 
 # But not these files...
 !.gitignore
-!210031-assignment1-notebook.ipynb
-!travel-insurance.csv
+
+
 
